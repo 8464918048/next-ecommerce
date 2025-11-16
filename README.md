@@ -1,0 +1,3 @@
+# next-ecommerce
+
+Starter project.
